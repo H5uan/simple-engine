@@ -1,0 +1,16 @@
+{
+  "Type": "Player",
+  "Components": {
+    "CommonComponent": {
+      "Position": 0.0,
+      "Velocity": 0.0
+    },
+    "SpriteRenderer": {
+      "TextureSource": "Assets/Models/GoodGuy.dds"
+    },
+    "MovementComponent": {
+      "Mass": 50.0,
+      "DragCoeff": 0.09
+    }
+  }
+}
